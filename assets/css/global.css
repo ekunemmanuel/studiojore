@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "arizonia";
+  src: url("../Arizonia-Regular.ttf");
+}
+html {
+  scroll-behavior: smooth;
+}
+section {
+  scroll-snap-type: y mandatory;
+}
+body {
+  background-color: #000;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+.body{
+  overflow: hidden;
+  opacity: 0;
+  transition: all 3s;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+section .child {
+  scroll-snap-align: center;
+}
+.scroll {
+  background: #d49a9afd !important;
+  color: rgb(0, 0, 0) !important;
+  top: 0;
+}
+
+.owner {
+  font-family: "arizonia";
+}
+
+.main_container {
+  width: 100%;
+  max-width: 1440px;
+  margin: auto;
+  padding: 0rem 1rem;
+}
