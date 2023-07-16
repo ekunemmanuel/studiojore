@@ -15,6 +15,7 @@ STUDIO JORE is a dynamic design, photography, and marketing agency that offers c
 
 At STUDIO JORE, we believe in the power of creativity to make a difference. Our team of dedicated professionals is committed to understanding our clients' goals, values, and unique stories. By combining artistic vision, technical expertise, and strategic thinking, we deliver exceptional solutions that captivate audiences and make a lasting impact.
 
+
 ## Services
 
 We offer a range of creative services tailored to meet the diverse needs of our clients:
